@@ -1,0 +1,1 @@
+// React component with button-click-based Yes/No inputs (truncated for brevity)
